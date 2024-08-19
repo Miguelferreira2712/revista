@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'le';
+    src: url('/Public/assets/fonts/discord-bold.woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'le';
+    src: url('/public/assets/fonts/discord-medium.woff2');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'le';
+    src: url('/public/assets/fonts/discord-semi.woff2');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'le';
+    src: url('/public/assets/fonts/discord-bold.woff2');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'le';
+    src: url('/public/assets/fonts/discord-extra.woff2');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'jg';
+    src: url('/public/fonts/fonts/prstartk.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'jg';
+    src: url('/public/fonts/fonts/prstart.ttf');
+    font-weight: 400;
+}

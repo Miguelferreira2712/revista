@@ -1,0 +1,13 @@
+body{
+    background: url(/public/images/fundo.jpg);
+background-size: 100%;
+}
+
+
+.inicio img{
+margin-left: 45%;
+margin-top: 70%;
+width: 20%;
+height: 20%;
+}
+
